@@ -1,0 +1,27 @@
+/* 
+  InfoPlist.strings
+  Tracekeep
+
+  Created by 卢梦如 on 2017/11/26.
+  Copyright © 2017年 Mengru Lu. All rights reserved.
+ 
+  APP 国际化APP名称配置 （韩语）
+*/
+
+// APP名称
+CFBundleDisplayName = "Tracekeep";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

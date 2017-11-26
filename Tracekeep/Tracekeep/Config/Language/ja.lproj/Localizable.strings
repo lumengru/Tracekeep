@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Tracekeep
+
+  Created by 卢梦如 on 2017/11/26.
+  Copyright © 2017年 Mengru Lu. All rights reserved.
+ 
+  APP 代码中字符串的本地化（日语）
+*/
+
+"account"             = "Account";                    // 账户
+"charge"              = "Charge"                      // 账户
+"my"                  = "私の"                          // 我的
+
+
+
+
+
+
